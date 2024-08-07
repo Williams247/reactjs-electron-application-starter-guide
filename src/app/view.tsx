@@ -6,7 +6,7 @@ function View() {
     <>
       <Navigation />
       <section>
-        <p>Application powered by react electron</p>
+        <p className="font-bold text-center mt-10">Application powered by react electron</p>
       </section>
     </>
   );
